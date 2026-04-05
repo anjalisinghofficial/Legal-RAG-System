@@ -117,10 +117,5 @@ Additionally, benchmark datasets (JSON format) contain:
 
 ---
 
-## 👩‍💻 Author
-**Anjali Singh**
-
----
-
 ## ⭐ Conclusion
 This project demonstrates how combining retrieval systems with generative AI can significantly improve information access in complex domains like legal analytics.
